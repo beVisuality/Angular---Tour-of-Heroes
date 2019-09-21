@@ -16,6 +16,9 @@ h1 {
     background-color: #eee;
     border-radius: 4px;
   }
+  nav a:not(:last-child) {
+    margin-right: 10px;
+  }
   nav a:visited, a:link {
     color: #334953;
   }
